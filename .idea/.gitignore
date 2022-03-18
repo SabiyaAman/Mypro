@@ -1,0 +1,6 @@
+# Default ignored files
+### Java template
+*.iml
+*.idea
+/shelf/
+/workspace.xml
